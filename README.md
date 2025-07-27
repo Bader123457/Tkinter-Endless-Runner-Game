@@ -65,3 +65,7 @@ Pillow (for image processing)
 
 json, webbrowser, random modules
 
+
+## NOTE :
+I have 2 github accounts and I made this project on a different repo this is why it only has 2 commits 
+
